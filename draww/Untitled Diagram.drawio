@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T03:42:39.656Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="r4EHoDC5qLArbk1xnlV2" version="20.2.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-23T08:18:59.070Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="IJfEnMXlPP8PMFBc57_8" version="20.2.5" type="github" pages="3">
   <diagram id="2kyUw5TSCOFKaoBBtA5A" name="MWS Account Creation">
-    <mxGraphModel dx="1186" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SskhIsj__zpxYApSq5ci" name="MWS Account Setup Failed">
-    <mxGraphModel dx="1186" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HbvgRs90FBUxspBB6kh8" name="Request &amp; Download Report">
-    <mxGraphModel dx="1186" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a2vtos277T7BI3q1SoCo-5" value="All Pending Accounts to seperate as SELLER &amp;amp; VENDOR" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2vtos277T7BI3q1SoCo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-7" target="a2vtos277T7BI3q1SoCo-13">
           <mxGeometry relative="1" as="geometry">
@@ -171,8 +171,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2vtos277T7BI3q1SoCo-7" value="Request for 18 Months Order Report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="a2vtos277T7BI3q1SoCo-7" value="Request for 18 Months Order Report&lt;br&gt;(30 days max request)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2vtos277T7BI3q1SoCo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-9" target="a2vtos277T7BI3q1SoCo-13">
           <mxGeometry relative="1" as="geometry">
@@ -182,8 +182,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="a2vtos277T7BI3q1SoCo-9" value="Request for 13 months Sales Report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="a2vtos277T7BI3q1SoCo-9" value="Request for 13 months Sales Report&lt;br&gt;(15 days max request)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2vtos277T7BI3q1SoCo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-13" target="a2vtos277T7BI3q1SoCo-16">
           <mxGeometry relative="1" as="geometry" />
@@ -221,7 +221,7 @@
         <mxCell id="a2vtos277T7BI3q1SoCo-26" value="Using Report_Document_ID request for download URL" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a2vtos277T7BI3q1SoCo-28" value="Using URL Download the file" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="a2vtos277T7BI3q1SoCo-28" value="Using URL Download the file and process and download the data to DB" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

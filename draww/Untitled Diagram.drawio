@@ -1,1 +1,230 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T03:31:53.956Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="kki6DfxFQgxh1R-p_H2J" version="20.2.5" type="github" pages="2"><diagram id="2kyUw5TSCOFKaoBBtA5A" name="MWS Account Creation">5VjbUtswEP2azLQPdHxJTHhMAgWmITANhZm+ZBRbsQWyZWSFJHx915Zsx5ahpkNSWl5AXl33nNXZVTr2KFyfchQHF8zDtGMZ3rpjH3csyzQO+/AvtWykxbEcafA58dSg0jAlTzifqaxL4uGkMlAwRgWJq0aXRRF2RcWGOGer6rAFo9VdY+RjzTB1EdWtt8QTgbT2rcPSfoaJH+Q7m86R7Jkj997nbBmp/SIWYdkTonwZ5WMSII+ttkz2ScceccaEbIXrEaYprDlict7XZ3qLI3MciTYTvs/OL3l4xs4nN/7oIblPhpP5gS1XeUR0qaBQhxWbHBvsAVTqk3ERMJ9FiJ6U1mHmP063MeCrHDNmLAajCcY7LMRG8Y6WgoEpECFVvboryruELbmLXzh/HiyI+1i8ME65lfqytYEC6hSzEAu+gQEcUyTIYzUskIouvxhXwgwNhfQrUO99ENS77wp1U0P9agOgRWCbYv5IXKyzQClIUIr2KiACT2OU4bICFWyJ5SPmAq9f9F71OkonlIQeqc9VqUdmLiXBlhb1jR3BZWlwXaB7EGnYKoUMHM1OTyKIK8u4uJ3C32t2j9POazSnOpplxJp7QbQOqWm0xNTZFaaH//jF77a8+M77uvj6zf8/Yc/LqfeCuy4hg4XAHEwD1wU4BbRGHCMBsDYRMkZzKDQrICJK/AjaLoAIK9nDVA4IVHID1RESz5N84YQ8ZTokGYsZSFXmYm/Y6R03EvJy+NSFp6hH1S6d7cKugrcSIFVttUZfLXSVnnxrCFssEoiDOj3Ffn/OWFcjbISyWVLeizRpZJrvZtQVvQWnNSb3njqL77+m80673Jmh2LEcCucZzuFeOH7aOtAhfX7IFItl/GzK3X+StXo6+Jaxz8Kl36D2tqlBA/6J3WlLKv+JzATp0ongUBqNGGWw7nH2SrSHC0JpzfQWhBi1QrKn8dFtoMPeFR1HTXToCVinoy1m7Wlrug3VtP4G+JtmrepsqOSdfRKQn6emRrkYjVE491CaiTOpryvNdapR4db4ingNOUlrDSU/n1AcU0BeEBZ9gfYsXCUzJDXss770j4REPsw9RgJlL4nfviB2L2c18roNTwarKZWYvTegb9b7GX+7Q5NJYLiXPu1d3o1vGp6tBZI5kLlhwbI6oQTMeViyvONAytEABpj9eC2nqf58oVrWkcUZyZ7Ig8jT+Ib/JzIa5P7gnzxC9Vhg3jrqB5VhUw+kblMgdV8fR/BZ/owoS8HyZ1r75Bc=</diagram><diagram id="SskhIsj__zpxYApSq5ci" name="MWS Account Setup Failed">5VnbcuI4EP0aHklhG4x55OJkUpVbhWwy+7QlsMDayJZXFgHm67cly9iyDcPUADOpeQiWWm1dzjktqZ2WM442Nxwl4T0LMG3ZnWDTciYt27Ysz4WHtGwzi+sNMsOSk0A7FYYp+Ya1saOtKxLg1HAUjFFBEtM4Z3GM58KwIc7Z2nRbMGqOmqAlrhmmc0Tr1jcSiDCzena/sH/BZBnmI1uuXl+Ecme9kjREAVuXTI7fcsacMZGVos0YUwlejkv23vWe1t3EOI7FMS/89fpP5wu7nT48U7ayX+lTNEvberKp2OYLxgGsX1cZFyFbshhRv7COOFvFAZa9dqBW+NwxloDRAuO/WIitJhOtBANTKCKqW+sz14tJ2YrP8YHp5gpAfInFAT8v85NrKQ2gcbnBLMKCb8GBY4oE+TC5Rloyy51fgSoUNLA/ALLu9wPRlR7pdgH1YSynMJzPAU8BpSkWq0RqFBEK8Npj5RPI3lP5OknJDAiAagw/Y7r6IAwKE5SGM4Z4UKeSUggTSdk6JAJPE6TAXUOkHknIB+YCbw5CqFvtXPc6znta9esiaCxH28JSwAw6ZwLdroE+DvH8XaonxAbuTxynWJUUsFPoHHNlZwuiAH9BAPxVy3ZRJJGLZ2miUHMprGI0A2d3KUtjjpFQncfGCBmL9+hdtiH4G8Fet9z1DE8/ztBcE0ALSESRMccKsRegs2Ow6Qwa6PQa6NxxfHI+u3U+96D9lmH4jNMETgQZ3RAtsk0tcAxHlIqt75H5GM+xCi8hGZuwdUwZkvse9KGVtGC8QU9IsR1ptuXcsB5b6avKfXXcX8B2t3sE3YOL0p2f/yW+p/7dnf/8uQ4s78gDyz71gaVeHXKOtiWHhJFYpKWen6Sh0IHjdE0dOJUrRcXfsjqH/KGQzaCQwW4pP6EM61NK4MTU1rjo7YvhvItMg/qtgqRza6Q2r4topH76v/oPk8fm3eMOzSBrMehGlCxjKM+BbrgMOCO5mRJIC4a6ISJBkCkLp+Sb2skzbWn8oPPeqNWbNErnoK5r2/YuudGjtMr5Q9N23rnq9HuWgXp+B/1JkbUrAd+u9MAWixSLCr+nYdStMXp7DfWHxxd5VXv2p/7Dyx/Bbrtz1Xc976T0XoC/+v3tV2zj6ib2Vb+vKn/LylUvr0425cbJVtfOfwOwLnROuP2+IZ1B/6hj4mQ66DXH8SeI4FzBp4hgOBfNAO7+7gHs1XgzsyC/nOO8sHccFynO5dPXvnlJsZoSGrshoXHPls/U8VMfgWZMJatF9rhLTLPfPblrLWc0s1kzNUa7zlcpiZfwnL4Nb24acqnvMINURg2VBdnIXfgUVLmOeaWwer06VU1fjs6Yew4azioNeQlxZVgwBWyBofvfiuUN7VSdQ0NwsLxkk72m2/OO7t+mraavgNf6K2A2DKwjG8kcHcyzvd8NgABxvl1Tnq3Z8lTXqeAQ82NGYTNwJjGLZS8LQmnFdALFOF5FMfXY3sVxWTDdH9cLVIsP9NlOWvybw/H/Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-23T03:42:07.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="xKb7fXf9Yj5Ht6z3WQfS" version="20.2.5" type="github" pages="3">
+  <diagram id="2kyUw5TSCOFKaoBBtA5A" name="MWS Account Creation">
+    <mxGraphModel dx="1186" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R_IOrmHoINVgCqsksBNb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R_IOrmHoINVgCqsksBNb-1" target="R_IOrmHoINVgCqsksBNb-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_IOrmHoINVgCqsksBNb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R_IOrmHoINVgCqsksBNb-1" target="R_IOrmHoINVgCqsksBNb-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_IOrmHoINVgCqsksBNb-1" value="Python Service" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R_IOrmHoINVgCqsksBNb-2" value="Makes an entry into MWS Token Table" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R_IOrmHoINVgCqsksBNb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R_IOrmHoINVgCqsksBNb-4" target="R_IOrmHoINVgCqsksBNb-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_IOrmHoINVgCqsksBNb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R_IOrmHoINVgCqsksBNb-4" target="R_IOrmHoINVgCqsksBNb-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R_IOrmHoINVgCqsksBNb-12" value="After Account Created" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="R_IOrmHoINVgCqsksBNb-11" vertex="1" connectable="0">
+          <mxGeometry y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R_IOrmHoINVgCqsksBNb-4" value="Call MWS Service to create MWS Account" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R_IOrmHoINVgCqsksBNb-6" value="Makes an entry to &lt;br&gt;- MWS Account&lt;br&gt;- MWS Setup Table" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="250" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R_IOrmHoINVgCqsksBNb-8" value="#1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="200" y="95" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R_IOrmHoINVgCqsksBNb-9" value="#2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R_IOrmHoINVgCqsksBNb-10" value="Make an Lambda Call&lt;br&gt;To make an entry to Bridge Table(application.app_mws_account)&lt;br&gt;Using Data in Token Table" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="400" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="_5ZpKjaNNh0cOgl5OjLV-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MWS Account Creation And Bridge Table Entry&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="200" y="10" width="420" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SskhIsj__zpxYApSq5ci" name="MWS Account Setup Failed">
+    <mxGraphModel dx="1186" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UV_0HoISNRlou2VlPmbs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UV_0HoISNRlou2VlPmbs-1" target="UV_0HoISNRlou2VlPmbs-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UV_0HoISNRlou2VlPmbs-1" value="If Any Account Setup failed, And is visible in Cluvio Dashboard" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="269" y="50" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UV_0HoISNRlou2VlPmbs-2" value="Check the Account Present in Seller Profile Table.&amp;nbsp;&lt;br&gt;Create An Account And Make a Bridge Table Entry with same Account" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="390" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UV_0HoISNRlou2VlPmbs-4" value="Create An Account With Respective Country Code,&amp;nbsp;&lt;br&gt;Once Data Downloaded Check for the Account and make an entry in Bridge Table&lt;br&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="390" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UV_0HoISNRlou2VlPmbs-10" value="SELLER" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UV_0HoISNRlou2VlPmbs-8" target="UV_0HoISNRlou2VlPmbs-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="334" y="330" />
+              <mxPoint x="110" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UV_0HoISNRlou2VlPmbs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UV_0HoISNRlou2VlPmbs-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="334" y="330" />
+              <mxPoint x="540" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UV_0HoISNRlou2VlPmbs-12" value="VENDOR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UV_0HoISNRlou2VlPmbs-11" vertex="1" connectable="0">
+          <mxGeometry x="0.0751" y="-1" relative="1" as="geometry">
+            <mxPoint x="-10" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UV_0HoISNRlou2VlPmbs-16" value="IF NOT PRESENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UV_0HoISNRlou2VlPmbs-11" vertex="1" connectable="0">
+          <mxGeometry x="-0.7688" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UV_0HoISNRlou2VlPmbs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UV_0HoISNRlou2VlPmbs-8" target="UV_0HoISNRlou2VlPmbs-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="677" y="97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UV_0HoISNRlou2VlPmbs-15" value="IF PRESENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UV_0HoISNRlou2VlPmbs-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.225" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UV_0HoISNRlou2VlPmbs-8" value="Check for Entry in Token Table" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="274" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UV_0HoISNRlou2VlPmbs-18" value="If both Account &amp;amp; Country Code,&lt;br&gt;&amp;nbsp;Create An account using SWAGGER" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="630" y="155" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UV_0HoISNRlou2VlPmbs-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;MWS Account Setup Failed&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="10" width="260" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HbvgRs90FBUxspBB6kh8" name="Request &amp; Download Report">
+    <mxGraphModel dx="1186" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a2vtos277T7BI3q1SoCo-1" value="MWS Account&lt;br&gt;in PENDING" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-2" target="a2vtos277T7BI3q1SoCo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-30" value="get" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a2vtos277T7BI3q1SoCo-4">
+          <mxGeometry x="0.2222" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-2" target="a2vtos277T7BI3q1SoCo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-2" value="MWS Schedular&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-5" target="a2vtos277T7BI3q1SoCo-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-11" value="SELLER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a2vtos277T7BI3q1SoCo-8">
+          <mxGeometry x="0.7103" y="2" relative="1" as="geometry">
+            <mxPoint x="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-5" target="a2vtos277T7BI3q1SoCo-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="320" />
+              <mxPoint x="430" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-12" value="VENDOR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="a2vtos277T7BI3q1SoCo-10">
+          <mxGeometry x="0.4846" relative="1" as="geometry">
+            <mxPoint x="-11" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-5" value="All Pending Accounts to seperate as SELLER &amp;amp; VENDOR" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-7" target="a2vtos277T7BI3q1SoCo-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-7" value="Request for 18 Months Order Report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-9" target="a2vtos277T7BI3q1SoCo-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="410" />
+              <mxPoint x="380" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-9" value="Request for 13 months Sales Report" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-13" target="a2vtos277T7BI3q1SoCo-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-13" value="MWS Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-16" target="a2vtos277T7BI3q1SoCo-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-16" value="Make a request to amazon." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-18" target="a2vtos277T7BI3q1SoCo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-18" value="Response will be &quot;request_ID&quot;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-22" target="a2vtos277T7BI3q1SoCo-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-22" value="Wait for 10min" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-24" target="a2vtos277T7BI3q1SoCo-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-24" value="Using &quot;request_ID&quot; make a request to amazon for Report_Document_ID" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a2vtos277T7BI3q1SoCo-26" target="a2vtos277T7BI3q1SoCo-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-26" value="Using Report_Document_ID request for download URL" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a2vtos277T7BI3q1SoCo-28" value="Using URL Download the file" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
